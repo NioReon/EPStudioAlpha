@@ -1,0 +1,4 @@
+while($lvalue$ $comparison$ $rvalue$)
+{
+	#code#
+};

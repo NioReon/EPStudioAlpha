@@ -1,0 +1,4 @@
+for(int $iterator$ = $from$; $iterator$ < $to$; $iterator$++)
+{
+	#code#
+};
